@@ -1,4 +1,4 @@
-# 🏠 House Price Prediction using Machine Learning
+# 🏠 House Property Price Prediction using Machine Learning
 
 This project focuses on predicting **median house prices** using machine learning techniques.  
 A **Random Forest Regressor** is trained with proper preprocessing, hyperparameter tuning, evaluation, and an interactive user input system for real-time predictions.
